@@ -21,7 +21,7 @@ This is a graphical To-Do List app created using `tkinter`. Users can add tasks,
 
 ## 🛠 How to Run
 ```bash
-python todo_gui.py
+python todo.py
 
 📌 Technologies Used
 
