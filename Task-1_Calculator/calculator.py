@@ -66,6 +66,8 @@ for row in buttons:
         if btn_text == '=':
             b.bind("<Button-1>", lambda e: evaluate())
         elif btn_text == 'C':
+
+            
             b.bind("<Button-1>", lambda e: clear())
         else:
             b.bind("<Button-1>", click)
