@@ -1,14 +1,17 @@
-# Task 1 - Calculator 🧮
+# 🧮 Task 1 – GUI Calculator
 
-## Description
-A basic calculator that performs addition, subtraction, multiplication, and division.
+A graphical calculator built using Python's `tkinter` library. This calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## How to Run
-1. Open terminal or command prompt.
-2. Run: `python calculator.py`
-3. Follow the prompts to input numbers and choose operations.
+---
 
-## Output
-- Takes two numbers.
-- Performs selected arithmetic operation.
-- Shows result.
+## 🚀 Features
+- Fully interactive button-based calculator
+- Supports keyboard input (0–9, +, -, *, /, Enter, Backspace)
+- Dark-themed interface
+- Error handling (e.g., division by zero)
+
+---
+
+## 🛠 How to Run
+```bash
+python calculator.py
