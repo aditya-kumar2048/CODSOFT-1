@@ -42,9 +42,9 @@ A password generator app with options to generate strong, random passwords based
 
 - **Organization**: [CodSoft](https://codsoft.in)
 - **Internship Title**: Python Programming (Virtual)
-- **Duration**: 5 July 2025 – 5 August 2025
+- **Duration**: 01 Aug 2025 – 31 Aug 2025
 - **Mode**: Remote (Virtual)
-- **Intern**: Anurag Kumar
+- **Intern**: Aditya Kumar
 
 ---
 
@@ -66,6 +66,6 @@ Each project is demonstrated in video form and posted on LinkedIn with the tag `
 
 ## 🌟 Author
 
-**Anurag Kumar**  
+**Aditya Kumar**  
 Python Intern @CodSoft  
 India 🇮🇳  
